@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package chat_v1;
+
+option go_package="github.com/zd4r/chat-server/pkg/chat_v1;chat_v1";
+
+service ChatV1 {
+}
